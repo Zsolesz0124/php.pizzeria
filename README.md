@@ -1,1 +1,4 @@
-# php.pizzeria
+Php Pizzéria weboldal Bootstrap-el
+- MySql adatbázisból kapja az adatokat, web menüt.
+- Regisztrált user, Regisztrálatlan user és Admin jogok elkülönítve
+- Egyéb funkciók
